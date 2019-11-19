@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\umkarasi\\Desktop\\vscode\\virenv\\mlenv\\Scripts\\python",
+    "python.autoComplete.addBrackets": true,
+    "python.dataScience.jupyterServerURI": "local"
+}
